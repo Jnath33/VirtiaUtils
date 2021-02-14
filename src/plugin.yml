@@ -1,0 +1,4 @@
+name: VirthiaUtilsAndAPI
+description: 'The virthia utils and api use in all the virthia servers'
+main: fr.virthia.utils.bukkit.plugin.Utils
+version: 1.0.0

@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="VirthiaUtilsAndAPI">
+    <output-path>$USER_HOME$/Documents</output-path>
+    <root id="archive" name="VirthiaUtilsAndAPI.jar">
+      <element id="module-output" name="Utils" />
+      <element id="file-copy" path="$PROJECT_DIR$/src/plugin.yml" />
+    </root>
+  </artifact>
+</component>
